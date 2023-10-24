@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\bin\Debug\net7.0\Ежеднеы.exe
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\bin\Debug\net7.0\Ежеднеы.deps.json
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\bin\Debug\net7.0\Ежеднеы.runtimeconfig.json
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\bin\Debug\net7.0\Ежеднеы.dll
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\bin\Debug\net7.0\Ежеднеы.pdb
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.AssemblyInfo.cs
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.dll
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\refint\Ежеднеы.dll
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.pdb
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\Ежеднеы.genruntimeconfig.cache
+C:\Users\user1\source\repos\Ежеднеы\Ежеднеы\obj\Debug\net7.0\ref\Ежеднеы.dll
